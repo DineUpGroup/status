@@ -58,7 +58,7 @@
     "url": "https://development.dineup.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/development.dineup.com.ico",
     "slug": "development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
