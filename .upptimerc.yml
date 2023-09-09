@@ -13,8 +13,6 @@ sites:
     url: https://development.dineup.com/api/ping
   - name: Website
     url: https://dineup.com
-  - name: Retool
-    url: https://retool.dineup.com/api/checkHealth
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
