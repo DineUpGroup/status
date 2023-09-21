@@ -1,7 +1,7 @@
 url: https://app.dineup.com/api/ping
-status: down
-code: 502
-responseTime: 86
-lastUpdated: 2023-09-21T23:38:05.800Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2023-09-21T23:43:26.259Z
 startTime: 2023-04-08T01:22:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
