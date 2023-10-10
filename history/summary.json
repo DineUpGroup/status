@@ -76,17 +76,17 @@
     "url": "https://dineup.com",
     "icon": "https://icons.duckduckgo.com/ip3/dineup.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 267,
-    "timeWeek": 212,
-    "timeMonth": 218,
-    "timeYear": 150,
+    "time": 151,
+    "timeDay": 265,
+    "timeWeek": 219,
+    "timeMonth": 220,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   }
 ]
